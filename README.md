@@ -11,11 +11,10 @@
 📫 Feel free to connect with me!
 
 <div>
-  <div style="display:flex; align-items: center; height: 40px; background-color: white">
-    Facebook: 
+  <div style="display:flex; align-items: center; height: 40px; background-color: white"> 
     <a href="https://www.facebook.com/thanhtung.bbv" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;" />
-    </a>
+    </a> Đỗ Thanh Tùng
   </div>
 </div>
 
