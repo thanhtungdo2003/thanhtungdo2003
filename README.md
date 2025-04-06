@@ -10,7 +10,12 @@
 
 📫 Feel free to connect with me!
 
-Facebook: <a href="https://www.facebook.com/thanhtung.bbv" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;" />
-</a>
+<div>
+  <div>
+    Facebook: <a href="https://www.facebook.com/thanhtung.bbv" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;" />
+    </a>
+  </div>
+</div>
+
 
