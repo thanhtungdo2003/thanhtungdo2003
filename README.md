@@ -11,7 +11,7 @@
 📫 Feel free to connect with me!
 
 <div>
-  <div style="display:flex; align-item: center">
+  <div style="display:flex; allign-item: center">
     Facebook: <a href="https://www.facebook.com/thanhtung.bbv" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;" />
     </a>
