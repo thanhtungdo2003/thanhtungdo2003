@@ -16,9 +16,9 @@
         <img src="https://cdn-icons-png.flaticon.com/24/733/733547.png" alt="Facebook" style="vertical-align:middle;" />Đỗ Thanh Tùng
     </a>
   </div>
-  <style>
+  <script>
     
-  </style>
+  </script>
 </div>
 
 
