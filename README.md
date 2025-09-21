@@ -9,6 +9,7 @@
 🍜 I love **all** Vietnamese food, but if I had to pick one favorite, it would be **Phở** – the soul of Vietnamese cuisine!
 
 📫 Feel free to connect with me!
+![Baby with Butterfly](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 
 <div>
   <div style="display:flex; align-items: center; height: 40px; background-color: white"> 
