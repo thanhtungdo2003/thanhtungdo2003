@@ -1,3 +1,5 @@
+![Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ## 👋 Hello there! I'm a fullstack developer.
 
 🎯 I specialize in both frontend and backend development, and I'm always eager to explore new technologies.
@@ -16,6 +18,7 @@
     </a>
   </div>
 </div>
+![Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ![JS](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
 ![PYTHON](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
