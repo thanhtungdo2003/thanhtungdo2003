@@ -9,6 +9,7 @@
 🍜 I love **all** Vietnamese food, but if I had to pick one favorite, it would be **Phở** – the soul of Vietnamese cuisine!
 
 📫 Feel free to connect with me!
+<p style="color: blue; font-size: 18px;">Welcome to my GitHub profile!</p>
 
 <div style='background-color: white'>
   <div style="display:flex; align-items: center; height: 40px; background-color: white"> 
